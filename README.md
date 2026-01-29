@@ -7,6 +7,21 @@ This site was design, developed, and deployed by Pixelhack Studios. It's a clien
 
 It's part of the Pixelhack Studios portfolio.
 
+1) Clone the Repo
+```
+git clone https://github.com/scottonanski/portfolio-pixelhack-studios.git
+```
+
+2) Install Dependencies
+```
+npm install
+```
+
+3) Start the Development Server
+```
+npm run dev
+```
+
 [http://www.pixlehackstudio.com](http://www.pixlehackstudio.com)
 
 [info@pixlehackstudio.com](mailto:info@pixlehackstudio.com)

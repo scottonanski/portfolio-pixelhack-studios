@@ -1,0 +1,32 @@
+@config "../tailwind.config.js";
+@import "tailwindcss";
+
+@layer base {
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #050505;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #d4af37;
+  }
+  body {
+    background-color: #050505;
+    color: #e7e5e4;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-white backdrop-blur-md border border-white/10;
+  }
+  .text-outline-dark {
+    -webkit-text-stroke: 1px #ffffff;
+    color: transparent;
+  }
+}

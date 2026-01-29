@@ -1,22 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Audiophilez: A Modern Audio Experience
+## A Pixelhack Studios Production
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+This site was design, developed, and deployed by Pixelhack Studios. It's a client project to showcase high-quality audio equipment and services, built using React, Vite, and Tailwind CSS.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1zjXBdpXOIpXxtLcYfYgy94P2AN0xXvaR
+It's part of the Pixelhack Studios portfolio.
 
-## Run Locally
+[http://www.pixlehackstudio.com](http://www.pixlehackstudio.com)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# portfolio-pixelhack-studios
-# portfolio-pixelhack-studios
+[info@pixlehackstudio.com](mailto:info@pixlehackstudio.com)

@@ -22,6 +22,7 @@ npm install
 npm run dev
 ```
 
-[http://www.pixlehackstudio.com](http://www.pixlehackstudio.com)
+[http://www.pixlehackstudios.com](http://www.pixlehackstudios.com)
 
-[info@pixlehackstudio.com](mailto:info@pixlehackstudio.com)
+---
+[info@pixlehackstudios.com](mailto:info@pixlehackstudios.com)

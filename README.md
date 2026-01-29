@@ -3,6 +3,12 @@
 
 ---
 
+<div align="center">
+<img src="./site-screen-cap.png" alt="Audiophilez Website Screenshot" width="800" />
+</div>
+
+---
+
 This site was design, developed, and deployed by Pixelhack Studios. It's a client project to showcase high-quality audio equipment and services, built using React, Vite, and Tailwind CSS.
 
 It's part of the Pixelhack Studios portfolio.

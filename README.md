@@ -1,8 +1,6 @@
 # Audiophilez: A Modern Audio Experience
 ## A Pixelhack Studios Production
 
----
-
 <div align="center">
 <img src="./site-screen-cap.png" alt="Audiophilez Website Screenshot" width="800" />
 </div>
